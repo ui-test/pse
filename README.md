@@ -1,4 +1,4 @@
-# pse
+# PSE
 
 UI Assessment Test
 Step 1. Create a Dynamic FORM using JSON Object.
@@ -7,6 +7,7 @@ Step 2. If the JSON data get updated the form must update dynamically. Keep text
 
 Example:
 JSON Data:
+```json
 [
     {
         "form_element": "input",
@@ -125,7 +126,7 @@ JSON Data:
         "icon": ""
     }
 ]
-
+```
 
   ![Image of Step-1](https://github.com/ui-test/pse/blob/master/assets/images/input-form.png?raw=true)
 
