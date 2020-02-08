@@ -2,10 +2,10 @@
 UI Test for Principal Software engineers
 
 Instructions :
-    - Don't commit to master branch
-    - Create a fork
-    - Commit your changes to fork
-    - email us once you are done with test
+    * Don't commit to master branch
+    * Create a fork
+    * Commit your changes to fork
+    * Email us once you are done with test
 
 
 # UI Assessment Test
