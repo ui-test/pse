@@ -1,6 +1,15 @@
 # PSE
+UI Test for Principal Software engineers
 
-UI Assessment Test
+Instructions :
+  - - Don't commit to master branch
+    - Create a fork
+    - Commit your changes to fork
+    - email us once you are done with test
+
+    
+# UI Assessment Test
+
 Step 1. Create a Dynamic FORM using JSON Object.
 Note: Use Bootstrap 4 for design.
 Step 2. If the JSON data get updated the form must update dynamically. Keep text input and dropdown is enough, if you add more input types would be great.
@@ -135,3 +144,6 @@ Note:
 1.	Use Angular 2+ any version.
 2.	Push the code in github and share the link.
 3.	If you publish in Heroku its plus.
+
+# Problems?
+Feel free to contact us if something is not clear.
